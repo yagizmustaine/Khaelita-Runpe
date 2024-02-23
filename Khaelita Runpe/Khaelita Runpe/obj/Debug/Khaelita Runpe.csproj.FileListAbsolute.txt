@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\Khaelita Runpe\Khaelita Runpe\bin\Debug\Khaelita Runpe.exe.config
+C:\Users\lenovo\Desktop\Khaelita Runpe\Khaelita Runpe\bin\Debug\Khaelita Runpe.exe
+C:\Users\lenovo\Desktop\Khaelita Runpe\Khaelita Runpe\bin\Debug\Khaelita Runpe.pdb
+C:\Users\lenovo\Desktop\Khaelita Runpe\Khaelita Runpe\obj\Debug\Khaelita Runpe.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Khaelita Runpe\Khaelita Runpe\obj\Debug\Khaelita_Runpe.Form1.resources
+C:\Users\lenovo\Desktop\Khaelita Runpe\Khaelita Runpe\obj\Debug\Khaelita_Runpe.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Khaelita Runpe\Khaelita Runpe\obj\Debug\Khaelita Runpe.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Khaelita Runpe\Khaelita Runpe\obj\Debug\Khaelita Runpe.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Khaelita Runpe\Khaelita Runpe\obj\Debug\Khaelita Runpe.exe
+C:\Users\lenovo\Desktop\Khaelita Runpe\Khaelita Runpe\obj\Debug\Khaelita Runpe.pdb
